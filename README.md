@@ -1,4 +1,4 @@
-To run malware, copy all to ny removeable media, start lnk.bat and then click on Documents shortcut
+To run malware, copy all to any removeable media, start lnk.bat and then click on Documents shortcut
 
 
 How it works?
